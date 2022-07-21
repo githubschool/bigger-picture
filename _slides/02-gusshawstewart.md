@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Manchester United are quite rubbish at the moment!
 
 ![steroidtocat](https://octodex.github.com/images/steroidtocat.png)
 {: .center}
