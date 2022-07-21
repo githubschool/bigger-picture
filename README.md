@@ -1,4 +1,4 @@
-# GitHub for Developers
+# GitHub for Developers and EVERYONE
 
 - Class Date: June 19-20
 - Facilitator: @gusshawstewart
